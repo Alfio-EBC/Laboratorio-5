@@ -1,0 +1,24 @@
+body {
+    background-color: #011e20;
+}
+button.btn.btn-danger {
+    background-color: #ffc107;
+    border: 0;
+    color: #011e20;
+}
+.card {
+    background-color: #054e53;
+    border: 1px solid #016a71;
+    color: #fff;
+}
+.Episodios li.nav-item {
+    background-color: #013e43;
+    border: 1px solid #005259;
+}
+.Episodios .nav-link {
+    color: #fff;
+}
+.Episodios .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
